@@ -1,4 +1,4 @@
-# APEXGo
+# APEXGo [![DOI](https://zenodo.org/badge/887529555.svg)](https://doi.org/10.5281/zenodo.19241740)
 Official implementation of APEXGo method from the paper [A generative artificial intelligence approach for antibiotic optimization](https://www.biorxiv.org/content/10.1101/2024.11.27.625757v1). This repository includes base code to run APEXGo on all templates from the paper.
 
 
